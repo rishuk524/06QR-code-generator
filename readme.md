@@ -8,7 +8,7 @@ Project-6
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **Project-6** [Live Link]
+# **Project-6** [Live Link](https://ineuronjsproject6.netlify.app/)
  >- Skills gained in this project
  >- Learned about dom manipulation
  >- learned about promises
